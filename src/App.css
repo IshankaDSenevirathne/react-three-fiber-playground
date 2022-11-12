@@ -60,3 +60,8 @@ body {
 .texture-selector img.active {
   border: 1px solid orange;
 }
+
+.menu {
+  top: 10px;
+  left:10px;
+}
